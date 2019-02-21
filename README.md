@@ -1,2 +1,2 @@
 # pipes
-DevOps Boilerplate made easier.
+DevOps boilerplate made easier.
